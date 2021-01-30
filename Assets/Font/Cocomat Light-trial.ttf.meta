@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9f16ed33abe10e84990a873257d74b54
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: COCOMAT
+  fontNames:
+  - COCOMAT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c5f62c8d89eb5f74cb26032e83c9fa1a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
