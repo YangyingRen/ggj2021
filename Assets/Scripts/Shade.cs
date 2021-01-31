@@ -7,6 +7,10 @@ public class Shade : MonoBehaviour
 
 {
 private static float _start=0f;
+
+    public void Start(){
+        _start=0f;
+    }
     public void Update(){
 
         
