@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Video;
 
 public class LockCamera : MonoBehaviour
 {
@@ -55,4 +56,7 @@ public class LockCamera : MonoBehaviour
         }
 
     }
-}
+
+    private void OnTriggerExit(Collider other){
+        gameObject.GetComponent<VideoPlayer>().Pause();
+}}
